@@ -1,0 +1,11 @@
+# Everton Barbosa - Desafio Técnico com Terraform
+
+## Instruções
+
+1. Clone o repositório: `git clone <repo_url>`
+2. Configure as credenciais da AWS: `aws configure`
+3. Execute o Terraform:
+    ```bash
+    terraform init
+    terraform apply
+    ```
